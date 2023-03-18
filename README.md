@@ -6,8 +6,7 @@ Net-Salary-Calculator-Toy-Problem-(toy problem).
 The Net Salary Calculator is a toy problem that involves building a simple program that calculates the net salary of an employee based on their gross salary and tax rate. The program takes two inputs from the user: their gross salary and their tax rate. It then calculates the net salary by subtracting the tax amount from the gross salary. The tax amount is calculated as a percentage of the gross salary. The program then outputs the net salary to the user.
 
 ## SCREENSHOTS
-- link 1
-- link 2
+-https://github.com/CLIFF-MUDIGO/Net-Salary-Calculator-Toy-Problem-/issues/1#issue-1630541715
 
 
 ********
