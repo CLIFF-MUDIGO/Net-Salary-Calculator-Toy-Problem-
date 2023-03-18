@@ -13,7 +13,8 @@ The Net Salary Calculator is a toy problem that involves building a simple progr
 ********
 ## SetUp Instruction
 ### Requirements
-* [Lang](lang Url)
+* [Lang](Html.com,
+Cascading Style Sheets,javascript.com)
 * [Framework](Framework URL)
 * Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
 * [Testing Platform](Platform URL)
